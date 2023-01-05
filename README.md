@@ -1,7 +1,6 @@
 ### Hi. I'm Farmon Khamidov 👋
-### Languages and tools:
-- 😄 Pronouns: ...
-<!--
+### I'm a Back-End Engineer
+
 **Farmon21/Farmon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
