@@ -1,7 +1,9 @@
 ### Hi. I'm Farmon Khamidov 👋
 ### I'm a Back-End Engineer
 
-![pp](https://user-images.githubusercontent.com/98850760/229267888-3a5c413e-7071-4ebe-a34e-b2d981ee33a1.png)
+Languages and tools:
+![a](https://user-images.githubusercontent.com/98850760/229267956-8c548437-6436-49be-a63d-e8570c99ea5a.png)
+![as](https://user-images.githubusercontent.com/98850760/229267958-63143897-5a76-4ced-a143-e96bb365d1dd.png)
 
 
 
